@@ -1,0 +1,1 @@
+def test(): return {'ping': 15, 'download_mbps': 85.4}
